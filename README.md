@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+live page link:
+"http://kimo095.github.io/PurchaseOrder"
 npx create-react-app [name_of_the_APP]
 # About the App
 This is a React application that displays a list of purchase orders in and allows the user to click on an order to view its details.
